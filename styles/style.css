@@ -1,25 +1,4 @@
- /* font import */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap');
-
-/* browser defalt style set */
 body{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-header{
-    /* background-image:url(images/bg1.png); */
-    /* display: flex;
-    align-items: center;
-    flex-direction: column;
-    background-color: wheat; */
-    /* background-image:url(images/bg); */
-    /* background-repeat: no-repeat; 
-    background-position: 0; */
-}
-.banner-photo{
-    background-image:url(images/bg1.png);
-    background-repeat: no-repeat; 
-    
+    background-color: pink;
 
 }
